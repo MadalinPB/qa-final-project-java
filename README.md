@@ -1,3 +1,5 @@
+[![CI Pipeline for QA Project](https://github.com/MadalinPB/qa-final-project-java/actions/workflows/ci.yml/badge.svg)](https://github.com/MadalinPB/qa-final-project-java/actions/workflows/ci.yml)
+
 # qa-final-project-java
 
 Poiectul acesta reprezinta structura completa a unui proiect de autmatizare, care include: repository de Git, creare de imagine cu container Docker si crearea unui pipeline CI/CD de testare in GitHubActions.
